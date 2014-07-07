@@ -20,6 +20,7 @@ package
     
     import utils.SoundPlayer;
     
+	[ResourceBundle("localisation")]
     [SWF(frameRate="60", backgroundColor="#000")]
     public class Scaffold_Mobile extends Sprite
     {

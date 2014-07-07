@@ -3,7 +3,6 @@ package
     import flash.system.System;
     
     import mx.resources.IResourceManager;
-    import mx.resources.ResourceBundle;
     import mx.resources.ResourceManager;
     
     import components.background.DefaultBackground;
@@ -41,7 +40,7 @@ package
 		
 		private static var _resourceManager:IResourceManager = ResourceManager.getInstance();
 		
-		[ResourceBundle("localisation")]
+		
 		//private static var _resourceBundle:ResourceBundle;
         
         public function Root()

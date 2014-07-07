@@ -137,6 +137,7 @@ package
 				
 				languageLabel = new Label();
 				languageLabel.text = Root.resourceManager.getString(Constants.BUNDLE_NAME, "language");
+				trace("Get string >>>> " + Root.resourceManager.getString(Constants.BUNDLE_NAME, "language"));
 				languageToggleBtn = new ToggleSwitch();
 				languageToggleBtn.onText = "English";
 				languageToggleBtn.offText = "Polish";

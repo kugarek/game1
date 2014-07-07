@@ -35,10 +35,12 @@ package utils
 			Root.resourceManager.localeChain = ["fr_FR"];
 		}else
 		{
-			Root.resourceManager.localeChain = ["en_US"];
+			//Root.resourceManager.localeChain = ["en_GB"];
+			Root.resourceManager.localeChain = ["fr_FR"];
+			
 		}
 		
-		
+		trace("Locale chain >> " + Root.resourceManager.localeChain);
 		
 		/**
 		 * Re-sets the language in encrypter local storage
