@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="blueBgd_1x1"	x="0"	y="2026"	width="1"	height="1" frameX="-0" frameY="-0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="britishFlagOff"	x="0"	y="1247"	width="440"	height="259" frameX="-0" frameY="-0" frameWidth="440" frameHeight="259"/>
+	<SubTexture name="britishFlagOn"	x="0"	y="1767"	width="439"	height="258" frameX="-1" frameY="-0" frameWidth="440" frameHeight="258"/>
+	<SubTexture name="cloud_1"	x="0"	y="383"	width="854"	height="367" frameX="-0" frameY="-0" frameWidth="854" frameHeight="367"/>
+	<SubTexture name="cloud_2"	x="0"	y="751"	width="534"	height="236" frameX="-0" frameY="-0" frameWidth="534" frameHeight="236"/>
+	<SubTexture name="cloud_ground"	x="0"	y="0"	width="1462"	height="382" frameX="-1" frameY="-0" frameWidth="1463" frameHeight="382"/>
+	<SubTexture name="home_icon"	x="441"	y="1127"	width="137"	height="138" frameX="-7" frameY="-7" frameWidth="151" frameHeight="152"/>
+	<SubTexture name="musicOffIcon"	x="535"	y="751"	width="137"	height="137" frameX="-7" frameY="-8" frameWidth="151" frameHeight="152"/>
+	<SubTexture name="musicOnIcon"	x="441"	y="1266"	width="137"	height="137" frameX="-7" frameY="-8" frameWidth="151" frameHeight="152"/>
+	<SubTexture name="polishFlagOff"	x="0"	y="1507"	width="439"	height="259" frameX="-0" frameY="-0" frameWidth="439" frameHeight="259"/>
+	<SubTexture name="polishFlagOn"	x="0"	y="988"	width="440"	height="258" frameX="-0" frameY="-0" frameWidth="440" frameHeight="258"/>
+	<SubTexture name="revert_icon"	x="441"	y="988"	width="137"	height="138" frameX="-7" frameY="-7" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="settingsBtnDownSkin"	x="440"	y="1741"	width="182"	height="187" frameX="-3" frameY="-0" frameWidth="191" frameHeight="198"/>
+	<SubTexture name="settingsBtnUpSkin"	x="440"	y="1507"	width="227"	height="233" frameX="-4" frameY="-0" frameWidth="239" frameHeight="247"/>
+	<SubTexture name="sidebar_background"	x="855"	y="383"	width="318"	height="1541" frameX="-0" frameY="-0" frameWidth="318" frameHeight="1541"/>
+</TextureAtlas>

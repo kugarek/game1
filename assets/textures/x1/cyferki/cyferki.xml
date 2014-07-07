@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="cyferki.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="00_color@2x.png"	x="657"	y="406"	width="288"	height="404" frameX="-0" frameY="-0" frameWidth="288" frameHeight="404"/>
+	<SubTexture name="00_mono@2x.png"	x="657"	y="811"	width="288"	height="404" frameX="-0" frameY="-0" frameWidth="288" frameHeight="404"/>
+	<SubTexture name="01_color@2x.png"	x="925"	y="1216"	width="261"	height="404" frameX="-1" frameY="-0" frameWidth="262" frameHeight="404"/>
+	<SubTexture name="01_mono@2x.png"	x="925"	y="1621"	width="261"	height="404" frameX="-1" frameY="-0" frameWidth="262" frameHeight="404"/>
+	<SubTexture name="02_color@2x.png"	x="0"	y="0"	width="378"	height="404" frameX="-0" frameY="-0" frameWidth="378" frameHeight="404"/>
+	<SubTexture name="02_mono@2x.png"	x="0"	y="405"	width="378"	height="404" frameX="-0" frameY="-0" frameWidth="378" frameHeight="404"/>
+	<SubTexture name="03_color@2x.png"	x="0"	y="1621"	width="310"	height="404" frameX="-0" frameY="-0" frameWidth="310" frameHeight="404"/>
+	<SubTexture name="03_mono@2x.png"	x="311"	y="1621"	width="310"	height="404" frameX="-0" frameY="-0" frameWidth="310" frameHeight="404"/>
+	<SubTexture name="04_color@2x.png"	x="689"	y="0"	width="274"	height="404" frameX="-0" frameY="-1" frameWidth="274" frameHeight="405"/>
+	<SubTexture name="04_mono@2x.png"	x="347"	y="1216"	width="274"	height="404" frameX="-0" frameY="-1" frameWidth="274" frameHeight="405"/>
+	<SubTexture name="05_color@2x.png"	x="622"	y="1623"	width="302"	height="405" frameX="-0" frameY="-0" frameWidth="302" frameHeight="406"/>
+	<SubTexture name="05_mono@2x.png"	x="622"	y="1216"	width="302"	height="406" frameX="-0" frameY="-0" frameWidth="302" frameHeight="406"/>
+	<SubTexture name="06_color@2x.png"	x="0"	y="1215"	width="346"	height="405" frameX="-0" frameY="-2" frameWidth="346" frameHeight="407"/>
+	<SubTexture name="06_mono@2x.png"	x="0"	y="810"	width="346"	height="404" frameX="-0" frameY="-3" frameWidth="346" frameHeight="407"/>
+	<SubTexture name="07_color@2x.png"	x="379"	y="0"	width="309"	height="405" frameX="-0" frameY="-0" frameWidth="309" frameHeight="405"/>
+	<SubTexture name="07_mono@2x.png"	x="347"	y="810"	width="309"	height="405" frameX="-0" frameY="-0" frameWidth="309" frameHeight="405"/>
+	<SubTexture name="08_color@2x.png"	x="946"	y="405"	width="260"	height="404" frameX="-0" frameY="-0" frameWidth="260" frameHeight="416"/>
+	<SubTexture name="08_mono@2x.png"	x="964"	y="0"	width="259"	height="404" frameX="-1" frameY="-0" frameWidth="260" frameHeight="416"/>
+	<SubTexture name="09_color@2x.png"	x="1181"	y="810"	width="234"	height="404" frameX="-0" frameY="-0" frameWidth="234" frameHeight="404"/>
+	<SubTexture name="09_mono@2x.png"	x="946"	y="810"	width="234"	height="404" frameX="-0" frameY="-0" frameWidth="234" frameHeight="404"/>
+</TextureAtlas>
