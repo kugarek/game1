@@ -31,12 +31,10 @@ package utils
 		
 		if(language == Constants.PL) {
 			
-			//Root.resourceManager.localeChain = ["pl_PL"];
-			Root.resourceManager.localeChain = ["fr_FR"];
+			Root.resourceManager.localeChain = ["pl_PL"];
 		}else
 		{
-			//Root.resourceManager.localeChain = ["en_GB"];
-			Root.resourceManager.localeChain = ["fr_FR"];
+			Root.resourceManager.localeChain = ["en_GB"];
 			
 		}
 		
@@ -72,6 +70,15 @@ package utils
 		{
 			storedValue = EncryptedLocalStore.getItem("language");//read language settings 
 			language = storedValue.readUTFBytes(storedValue.length);
+			
+			/*if(language == Constants.PL) {
+				
+				Root.resourceManager.localeChain = ["pl_PL"];
+			}else
+			{
+				Root.resourceManager.localeChain = ["en_GB"];
+			}*/
+			
 			return _language;
 		}
 
