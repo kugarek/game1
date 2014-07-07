@@ -31,8 +31,7 @@ package
 		//Main screen
 		private var digitsBtn:Button;		
 		private var settingsBtn:Button;	
-		
-		//test
+				
 		//Settings tab
 		private var settingsContainer:ScrollContainer;
 		private var settingsBackBtn:Button;
