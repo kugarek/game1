@@ -11,6 +11,9 @@ package
 		
 		private static var instance : EmbededAssets;
 		
+		[Embed(source="/background.png")]/* background */
+		public static const LoadingBgd:Class;
+		
 		[Embed(source="../assets/textures/x1/background.png")]/* background with clouds etc.*/
 		public static const Scene1BGD:Class;
 		

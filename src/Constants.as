@@ -16,8 +16,10 @@ package
         // set the "aspectRatio" element in the config XML to "landscape". (You'll also have to
         // update the background, startup- and "Default" graphics accordingly.)
         
-        /*public static const STAGE_WIDTH:int  = 320;
-        public static const STAGE_HEIGHT:int = 480;*/
+		public static const STAGE_WIDTH:int  = 480;
+		public static const STAGE_HEIGHT:int = 320;
+		
+		public static const ASPECT_RATIO:Number = STAGE_WIDTH  / STAGE_HEIGHT;
 		
 		public static const PL:String = "Pl";
 		public static const ENG:String = "Eng";

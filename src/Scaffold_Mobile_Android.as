@@ -22,7 +22,7 @@ package
     
 	[ResourceBundle("localisation")]
     [SWF(frameRate="60", backgroundColor="#000")]
-    public class Scaffold_Mobile extends Sprite
+    public class Scaffold_Mobile_Android extends Sprite
     {
 		
 		[Embed(source="/background.png")]/* background */
@@ -35,7 +35,7 @@ package
 		
 		private var language:String;
 		
-		public function Scaffold_Mobile() 
+		public function Scaffold_Mobile_Android() 
 		{
 			stats = new Stats();
 			this.addChild(stats);
